@@ -1,0 +1,89 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Model files (optional - uncomment if you don't want to track large model files)
+# *.h5
+# *.pkl
+# *.pth
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment variables
+.env
+.env.local
+
+# Test files
+test_*.py
+*_test.py
+example_*.py
+
+# Logs
+*.log
+logs/
+*.txt.log
+
+# Saved images
+saved_frames/
+screenshots/
+*.png
+*.jpg
+*.jpeg
+
+# Data files
+data/
+datasets/
+*.csv
+*.json
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Temporary files
+temp/
+tmp/
+*.tmp
+
+# API keys and secrets
+secrets.json
+credentials.json
+config.json

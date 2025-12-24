@@ -1,0 +1,23 @@
+# Requirements for Customer Satisfaction Model Testing
+
+# Core ML libraries
+tensorflow>=2.8.0
+numpy>=1.21.0
+
+# Image processing
+opencv-python>=4.5.0
+Pillow>=8.0.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Utilities
+pathlib2>=2.3.0  # For Python < 3.4 compatibility (optional)
+
+# Optional: For better performance
+# tensorflow-gpu>=2.8.0  # If you have GPU support
+
+# Optional: For Jupyter notebook support
+# jupyter>=1.0.0
+# ipykernel>=6.0.0

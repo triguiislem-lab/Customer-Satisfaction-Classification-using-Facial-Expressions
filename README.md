@@ -142,10 +142,3 @@ triguiislem-lab
 - OpenCV for computer vision capabilities
 - The open-source community
 
-## 📞 Support
-
-For issues and questions, please open an issue on GitHub.
-
----
-
-Made with ❤️ for better customer experience analysis
